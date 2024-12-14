@@ -1,1 +1,1 @@
-<a><img src="Screenshots/web-1.png"></a>
+<a><img src="Github/web-1.png"></a>
