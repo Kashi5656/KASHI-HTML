@@ -1,4 +1,4 @@
-<h1></h1>
+<h1>WireFrame</h1>
 <a href="https://radiant-caramel-3f939a.netlify.app/"><img src="tebal.png"></a>
 
 
